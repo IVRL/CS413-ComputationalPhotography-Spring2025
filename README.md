@@ -1,5 +1,3 @@
-# CS413-ComputationalPhotography-Spring2025
-
 # Computational Photography
 
 |     | Homework | Solution |
